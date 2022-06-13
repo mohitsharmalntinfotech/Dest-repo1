@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 10705555
+Build-Jdk: 18.0.1
+Implementation-Title: mule-to-si
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.lti
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/mule-to-si
+Created-By: Maven Integration for Eclipse
+
